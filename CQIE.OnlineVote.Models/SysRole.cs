@@ -9,7 +9,7 @@ namespace CQIE.OnlineVote.Models
     public class SysRole
 
     {  
-        
+        //好的
         public int Id { get; set; }
         public string? RoleName { get; set; }
         public string? Describe { get; set;}
