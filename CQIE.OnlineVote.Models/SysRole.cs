@@ -9,17 +9,13 @@ namespace CQIE.OnlineVote.Models
     public class SysRole
 
     {  
-        //hjjj傻逼
+        
         public int Id { get; set; }
         public string? RoleName { get; set; }
         public string? Describe { get; set;}
 
         public  ICollection<USerRole>?  USerRoles { get; set; }
         public ICollection<MenuRole>? MenuRoles {  get; set; } 
-        //kkoji
-        //666
-        //o1o12j3123o123
-        //5456
-        //kjk
+    
     }
 }
