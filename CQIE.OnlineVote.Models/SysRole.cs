@@ -17,5 +17,8 @@ namespace CQIE.OnlineVote.Models
         public  ICollection<USerRole>?  USerRoles { get; set; }
         public ICollection<MenuRole>? MenuRoles {  get; set; } 
         //kkoji
+        //666
+        //o1o12j3123o123
+        //5456
     }
 }
