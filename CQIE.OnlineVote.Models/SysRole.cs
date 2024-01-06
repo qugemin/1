@@ -10,6 +10,7 @@ namespace CQIE.OnlineVote.Models
 
     {  
         //好的，已经修改完了
+     //123123
         public int Id { get; set; }
         public string? RoleName { get; set; }
         public string? Describe { get; set;}
