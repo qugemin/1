@@ -9,8 +9,7 @@ namespace CQIE.OnlineVote.Models
     public class SysRole
 
     {  
-        //好的，已经修改完了
-        //第三次修改
+        //回复正常
         public int Id { get; set; }
         public string? RoleName { get; set; }
         public string? Describe { get; set;}
